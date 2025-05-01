@@ -2,6 +2,6 @@
 function hello() {
     console.log("hello");
 }
-const display = () => {
+var display = function () {
     return "suhag";
 };

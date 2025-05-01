@@ -1,5 +1,5 @@
 "use strict";
-const obj = {
+var obj = {
     name: "suhag",
     age: 15,
 };
