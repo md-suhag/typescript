@@ -15,4 +15,4 @@ var friends = ["rahim", "karim", "abdul"];
 var marks = [98, 95, 86, 94];
 // marks.push("math");
 var vary = [5, "suhag"];
-console.log(vary.push(3));
+// console.log(vary.push(3));
