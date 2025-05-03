@@ -1,3 +1,5 @@
+// nullable types / unknown types
+
 const searchName = (value: string | null) => {
   if (value) {
     console.log("Searching");
@@ -26,8 +28,8 @@ getSpeedInMeterPerSecond(null);
 
 //never
 
-const throwError = (msg: string): never => {
-  throw new Error(msg);
-};
+// const throwError = (msg: string): never => {
+//   throw new Error(msg);
+// };
 
-throwError("error");
+// throwError("error");
